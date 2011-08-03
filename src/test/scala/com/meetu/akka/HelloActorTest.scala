@@ -1,7 +1,5 @@
 package com.meetu.akka
 
-package com.decooda.sample
-
 import org.junit.runner.RunWith
 import org.scalatest.FeatureSpec
 import org.scalatest.GivenWhenThen
